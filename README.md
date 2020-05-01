@@ -1,0 +1,1 @@
+See [https://pkg.go.dev/github.com/ajjensen13/urlutil](https://pkg.go.dev/github.com/ajjensen13/urlutil) for package documentation.
